@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769646998693",
+    "project_id": "kidsed-3ee3c",
+    "storage_bucket": "kidsed-3ee3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769646998693:android:e090daf8272cdd0f3f894c",
+        "android_client_info": {
+          "package_name": "com.kidsed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769646998693-h3c01io2a61hqnt2jet3dojrk4mfin6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0VTB6Fy2be8KU1TL-Wdcq4qLrFDYWGKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769646998693-h3c01io2a61hqnt2jet3dojrk4mfin6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
